@@ -28,7 +28,7 @@
         </ul>
         Overall, Vercel can provide a number of benefits when used with SvelteKit, making it easier to deploy, host, and manage your SvelteKit app. Whether you're a small team building a simple web app or a large organization with complex, mission-critical applications, Vercel can help you get the most out of your SvelteKit app.
     </div>
-    <div style="margin: 20px 0 20px 0;">
+    <div style="margin: 20px 0 20px 0">
         Check out Vercel's <a href="/">SvelteKit 1.0 on Vercel</a> blog to learn more, or take the free <a href="https://beginnersveltekit.com">Beginner SvelteKit</a> course! 
     </div>
 
