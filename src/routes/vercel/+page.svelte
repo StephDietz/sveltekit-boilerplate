@@ -37,9 +37,9 @@
 <style>
 .contianer {
     display: flex;
-	max-width: 48rem;
-	flex: 0.6;
-	flex-direction: column;
-	margin: 0 auto;
+    max-width: 48rem;
+    flex: 0.6;
+    flex-direction: column;
+    margin: 0 auto;
 }
 </style>
